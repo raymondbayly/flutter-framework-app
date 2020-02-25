@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Rays Flutter Framework Test Application'),
+      home: MyHomePage(title: 'Rays Flutter App'),
     );
   }
 }
